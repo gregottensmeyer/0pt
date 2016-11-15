@@ -9,7 +9,9 @@ c) Permanent Magnet or Pulsed Motor/Generators [http://www.theneworionproject.or
 d) Electrogravitic/Magnetogravitic Propulsion and Energy Systems [http://www.theneworionproject.org/en/electrogravitic.html]
 
 TECHNOLOGY PERFORMANCE CRITERIA
+
 The desired generator technology is an energy-generating device that produces more output energy in usable, commercially viable power than is required to run the system.
+
 1.  The technology is over unity (more output than input energy) and is commercially viable for running typical electrical appliances in homes, businesses and industry. The device must also provide the following features:
 
 2. Be completely independent of the power grid. The device should be able to function as a complete "stand alone" system operating for an indefinite period of time with no connection of any kind to the existing electrical grid or any other power supply system. Ultimately, the device may be hooked to the grid to feed its own excess power back to the utility company but only after demonstrating its performance as a standalone system.
