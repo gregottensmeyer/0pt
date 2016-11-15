@@ -4,8 +4,11 @@ Development of "free" energy systems using emerging zero-point [0pt] technologie
 EXAMPLES OF EMERGING TECHNOLOGIES
 
 a) Hydroxy Gas Energy Systems [http://www.theneworionproject.org/en/hydroxy.html]
+
 b) Quantum Vacuum (or Zero Point) Electromagnetic Generators [http://www.theneworionproject.org/en/quantumvacuum.html]
+
 c) Permanent Magnet or Pulsed Motor/Generators [http://www.theneworionproject.org/en/pmg.html]
+
 d) Electrogravitic/Magnetogravitic Propulsion and Energy Systems [http://www.theneworionproject.org/en/electrogravitic.html]
 
 TECHNOLOGY PERFORMANCE CRITERIA
